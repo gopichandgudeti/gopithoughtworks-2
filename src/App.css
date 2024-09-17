@@ -1,0 +1,15 @@
+.app-bg-cont {
+  height: 100vh;
+  width: 100vw;
+  background-color: black;
+}
+
+.nav-cont {
+  background-color: grey;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  align-items: center;
+  justify-content: space-between;
+}
